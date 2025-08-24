@@ -3,9 +3,9 @@
 **SonicSQL** is a lightweight, multi-mode SQL helper for **PHP** and **JavaScript**.  
 It secures and simplifies database queries and gives you flexible return formats depending on your use case.
 
-**Buy an individual license:** https://ssql.gumroad.com/l/ssql-i
+**Buy SonicSQL with individual license:** https://ssql.gumroad.com/l/ssql-i
 
-**Buy a business license:** https://ssql.gumroad.com/l/ssql-b
+**Buy SonicSQL with business license:** https://ssql.gumroad.com/l/ssql-b
 
 ---
 
